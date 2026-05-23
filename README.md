@@ -20,17 +20,8 @@ backend systems, Dockerized infrastructure, and modern frontend engineering.
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,go" />
+### Frontend : <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> ### Backend: <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### DevOps & Cloud: <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" /> ### Languages: <img src="https://skillicons.dev/icons?i=js,ts,go" />
 
 </div>
 ---
