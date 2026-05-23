@@ -1,89 +1,119 @@
-<h1 align="center">Hi 👋, I'm Tinku Candy</h1>
-<h3 align="center">
-Full Stack & DevOps Developer focused on scalable MERN applications,
-backend systems, Dockerized infrastructure, and modern frontend engineering.
-</h3>
+# Hi 👋, I'm Tinku Candy
+
+## Full Stack & DevOps Developer | Building Scalable MERN Applications
+
+Backend Systems • Dockerized Infrastructure • System Design
+
+![Profile Views](https://komarev.com/ghpvc/?username=tcbox&style=flat-square&color=blue)
+![Focus](https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-System%20Design-green?style=flat-square)
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building scalable full-stack applications
-- 🌱 Learning Kubernetes, System Design & DevOps Automation
-- 💻 Interested in Backend Architecture, Cloud & Performance Optimization
-- ⚡ Focused on writing maintainable, scalable, and secure code
-- 🧠 Exploring Golang and distributed systems
+- 💻 Building scalable full-stack MERN applications with production-ready infrastructure
+- 🔭 Deep-diving into **System Design**, **Kubernetes**, and **Backend Architecture**
+- 🏗️ Passionate about **clean code**, **secure systems**, and **DevOps automation**
+- ⚡ Focused on performance optimization and scalable infrastructure patterns
+- 🧠 Exploring **Golang** and distributed systems architectures
+- 🎯 Engineering mindset: production-first, architecture-driven, security-conscious
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+**Backend:** Node.js • Express • MongoDB • PostgreSQL
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+**DevOps & Infrastructure:** Docker • Kubernetes • AWS • GitHub Actions
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+**Languages:** JavaScript • TypeScript • Golang (Learning)
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,go" />
-
-</div>
 ---
 
 ## 🌟 Featured Projects
 
-### 🛒 Snapcart MERN Ecommerce
-Multi-vendor ecommerce platform with authentication, admin dashboard, cart system, and order management.
+### 🛒 Snapcart — Multi-Vendor MERN Ecommerce
+
+Production-grade ecommerce platform with JWT authentication, role-based access control (RBAC), admin dashboard, shopping cart, and order management. Clean architecture with secure payment integration ready.
+
+**Tech:** React • Express • MongoDB • Tailwind CSS
+
+---
 
 ### 🔐 Advanced Auth System
-Authentication system with JWT, refresh tokens, RBAC, and secure backend architecture.
 
-### ⚙️ DevOpsAI
-DevOps-focused experimentation project exploring automation and scalable infrastructure workflows.
+Robust authentication service with JWT tokens, refresh token rotation, secure session management, and RBAC implementation. Designed for production use with best practices in password hashing, token expiry, and security headers.
 
-### 🏫 School Management System
-Full-stack platform for managing students, classes, and school operations.
+**Tech:** Node.js • Express • MongoDB • TypeScript
 
 ---
 
-## 📚 Currently Learning
+### 📚 School Management System
 
-- Kubernetes
-- System Design
-- Scalable Backend Architecture
-- DevOps Automation
-- Cloud Infrastructure
+Full-featured ERP platform for managing students, classes, attendance, grades, and school operations. Multi-role authentication (admin, teacher, student) with real-time data handling.
+
+**Tech:** MERN Stack • MongoDB • JWT • Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+### 📖 Engineering Blog _(Coming Soon)_
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tcbox&show_icons=true&theme=tokyonight" />
-</p>
+Technical deep-dives on system design, backend architecture, DevOps workflows, and scalable infrastructure patterns. Writing about real-world challenges and solutions.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tcbox&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcbox&layout=compact&theme=tokyonight" />
-</p>
+**Topics:** System Design • Backend Architecture • Kubernetes • AWS • Performance Optimization
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning & Building
 
-- GitHub: https://github.com/tcbox
+- 🎯 **System Design** — Designing scalable, distributed systems
+- ☸️ **Kubernetes** — Orchestration, service mesh, and cluster management
+- 🏗️ **Advanced Backend Architecture** — Microservices, caching strategies, database optimization
+- 🤖 **DevOps Automation** — CI/CD pipelines, infrastructure as code (IaC), containerization
+- ☁️ **Cloud Infrastructure** — AWS services, deployment strategies, cost optimization
+- 🔄 **Golang** — Building high-performance backend services
 
 ---
 
-## 💡 Engineering Mindset
+## 📊 GitHub Analytics
 
-I enjoy building production-oriented applications with clean architecture,
-secure backend systems, scalable infrastructure, and maintainable code practices.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcbox&show_icons=true&theme=tokyonight&cache_seconds=86400 "GitHub Statistics")
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcbox&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400 "Most Used Languages")
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcbox&theme=tokyonight "GitHub Contribution Streak")
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+I'm passionate about:
+
+✅ **Production-Ready Code** — Clean, maintainable, and secure from day one
+
+✅ **Scalable Architecture** — Designing systems that grow with demand
+
+✅ **DevOps Mindset** — Infrastructure as code, automation, and reliability
+
+✅ **Backend Excellence** — Robust APIs, database optimization, secure auth
+
+✅ **Learning & Growth** — Constantly exploring new patterns and technologies
+
+---
+
+## 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-tcbox-black?style=for-the-badge&logo=github)](https://github.com/tcbox)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+
+---
+
+_Always excited to collaborate on scalable projects, system design challenges, and infrastructure problems! 🚀_
