@@ -23,14 +23,21 @@ Backend Systems • Dockerized Infrastructure • System Design
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS
+<div align="center">
 
-**Backend:** Node.js • Express • MongoDB • PostgreSQL
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 
-**DevOps & Infrastructure:** Docker • Kubernetes • AWS • GitHub Actions
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Languages:** JavaScript • TypeScript • Golang (Learning)
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
 
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,go" />
+
+</div>
 ---
 
 ## 🌟 Featured Projects
