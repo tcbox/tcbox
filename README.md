@@ -23,22 +23,40 @@ Backend Systems • Dockerized Infrastructure • System Design
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+<td align="center">
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+#### Frontend
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+<img height="25" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</td>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,go" />
+<td align="center">
 
-</div>
----
+#### Backend
+
+<img height="25" src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</td>
+
+<td align="center">
+
+#### DevOps & Cloud
+
+<img height="25" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
+</td>
+
+<td align="center">
+
+#### Languages
+
+<img height="25" src="https://skillicons.dev/icons?i=js,ts,go" />
+
+</td>
+</tr>
+</table>
 
 ## 🌟 Featured Projects
 
@@ -88,10 +106,22 @@ Technical deep-dives on system design, backend architecture, DevOps workflows, a
 ## 📊 GitHub Analytics
 
 <div align="center">
+<table>
+
+<tr>
+<td>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcbox&show_icons=true&theme=tokyonight&cache_seconds=86400 "GitHub Statistics")
 
+</td>
+<td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcbox&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400 "Most Used Languages")
+
+</td>
+
+</tr>
+</table>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcbox&theme=tokyonight "GitHub Contribution Streak")
 
