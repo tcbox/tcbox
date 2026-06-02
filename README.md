@@ -95,11 +95,10 @@ Technical deep-dives on system design, backend architecture, DevOps workflows, a
 ## 📚 Currently Learning & Building
 
 - 🎯 **System Design** — Designing scalable, distributed systems
-- ☸️ **Kubernetes** — Orchestration, service mesh, and cluster management
-- 🏗️ **Advanced Backend Architecture** — Microservices, caching strategies, database optimization
-- 🤖 **DevOps Automation** — CI/CD pipelines, infrastructure as code (IaC), containerization
-- ☁️ **Cloud Infrastructure** — AWS services, deployment strategies, cost optimization
+- 🏗️ **Backend Architecture** — Microservices, caching strategies, database optimization
 - 🔄 **Golang** — Building high-performance backend services
+- 🤖 **DevOps Automation** — CI/CD pipelines, infrastructure as code (IaC), containerization
+- ☸️ **Kubernetes** — Orchestration, service mesh, and cluster management
 
 ---
 
@@ -122,11 +121,11 @@ Technical deep-dives on system design, backend architecture, DevOps workflows, a
 
 </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tcbox&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcbox&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=tcbox&theme=tokyonight"
+  />
+</p>
 </div>
 
 ---
