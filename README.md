@@ -123,7 +123,9 @@ Technical deep-dives on system design, backend architecture, DevOps workflows, a
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tcbox&theme=tokyonight "GitHub Contribution Streak")
+<img src="https://github-readme-stats.vercel.app/api?username=tcbox&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcbox&layout=compact&theme=tokyonight" />
 
 </div>
 
