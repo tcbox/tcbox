@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tinku Candy
 
-## Full Stack & DevOps Developer | Building Scalable MERN Applications
+## Full Stack & DevOps Engineer | Building Scalable MERN Applications
 
 Backend Systems • Dockerized Infrastructure • System Design
 
